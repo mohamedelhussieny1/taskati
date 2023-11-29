@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:taskati/feature/home/widget/task_Item.dart';
+import 'package:taskati/feature/add_task/task_Item.dart';
 import 'package:taskati/model/task_model.dart';
 import 'package:taskati/utiles/colors.dart';
 import 'package:taskati/utiles/text_style.dart';

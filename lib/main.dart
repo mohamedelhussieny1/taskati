@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
+import 'package:taskati/feature/splash_screan/splash_view.dart';
 import 'package:taskati/model/task_model.dart';
-import 'package:taskati/feature/add_task/splash_screan/splash_view.dart';
 
 import 'utiles/colors.dart';
 
