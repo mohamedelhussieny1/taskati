@@ -16,9 +16,9 @@ class TaskItem extends StatelessWidget {
       case 0:
         return AppColors.primaryColor;
       case 1:
-        return AppColors.orangeColor;
-      case 2:
         return AppColors.redColor;
+      case 2:
+        return AppColors.orangeColor;
       case 3:
         return Colors.green;
       default:
