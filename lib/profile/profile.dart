@@ -2,7 +2,7 @@ import 'dart:io';
 import 'package:hive/hive.dart';
 import 'package:flutter/material.dart';
 import 'package:taskati/feature/home/home_screan.dart';
-import 'package:taskati/profile/widget.dart';
+import 'package:taskati/profile/widget/widget.dart';
 import 'package:taskati/storage/local_storage.dart';
 import 'package:taskati/utiles/colors.dart';
 import 'package:taskati/utiles/text_style.dart';
